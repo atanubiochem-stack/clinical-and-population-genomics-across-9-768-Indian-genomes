@@ -1,6 +1,6 @@
 # GenomeIndia: Population Genomics, Natural Selection, and Endogamy Architecture
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10892451.svg)](https://doi.org/10.5281/zenodo.10892451)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23451643.svg)](https://doi.org/10.5281/zenodo.23451643)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Nature Format](https://img.shields.io/badge/Article_Format-Nature-blue.svg)](https://www.nature.com)
 [![R](https://img.shields.io/badge/R-%3E%3D4.3.0-blue.svg)](https://www.r-project.org/)

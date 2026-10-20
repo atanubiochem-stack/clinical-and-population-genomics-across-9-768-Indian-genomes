@@ -1,6 +1,6 @@
 # GenomeIndia: Population Genomics, Natural Selection, and Endogamy Architecture
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23451643.svg)](https://doi.org/10.5281/zenodo.23451643)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10892451.svg)](https://doi.org/10.5281/zenodo.10892451)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Nature Format](https://img.shields.io/badge/Article_Format-Nature-blue.svg)](https://www.nature.com)
 [![R](https://img.shields.io/badge/R-%3E%3D4.3.0-blue.svg)](https://www.r-project.org/)
@@ -73,8 +73,8 @@ GenomeIndia_GitHub_Repo/
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/GenomeIndia-Analysis/GenomeIndia-Population-Genomics-Nature-2026.git
-cd GenomeIndia-Population-Genomics-Nature-2026
+git clone https://github.com/atanubiochem-stack/clinical-and-population-genomics-across-9-768-Indian-genomes.git
+cd clinical-and-population-genomics-across-9-768-Indian-genomes
 
 # Install Python requirements
 pip install -r requirements.txt
@@ -99,8 +99,8 @@ Rscript scripts/figure_generation/build_nature_article_figures.R
 If you use this codebase or data in your research, please cite:
 ```bibtex
 @article{GenomeIndia2026Nature,
-  title={Population genomics, natural selection, and endogamy architecture across 9,768 Indian whole genomes},
-  author={GenomeIndia Collaborative Research Initiative},
+  title={The fallacy of the national average in structured populations: clinical and population genomics across 9,768 Indian genomes},
+  author={Dutta, Atanu Kumar and Mondal, Soumyajit},
   journal={Nature},
   year={2026},
   doi={10.5281/zenodo.10892451}
